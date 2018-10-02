@@ -1,0 +1,125 @@
+
+body{
+
+    background: #bfbfbf;
+
+
+}
+
+.wrapper{
+
+    background: #fff;
+
+    max-width: 968px;
+
+    margin: auto;
+
+    padding: 20px;
+
+
+
+}
+
+
+.wrapper:after{
+
+    content: "";
+    display: block;
+    clear: both;
+
+}
+
+
+
+.subway:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+
+
+
+.service h2,.service p{
+
+    color: #999;
+    margin: 10px 0;
+    text-align: center;
+
+}
+
+.service{
+    float: left;
+    background: #eee;
+    width: 29.33%;
+    margin: 1%;
+    padding: 1%;
+    height: 148px;
+}
+
+.content{
+    padding: 10px;
+    background: #858085;
+    clear: left;
+    margin-top: 100px;
+    position: relative;
+    right: 50px;
+    bottom: -50px;
+}
+
+
+.content p{
+
+    -webkit-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 50px;
+    column-gap: 50px;
+    -webkit-column-rule:1px solid #ccc;
+    column-rule: 1px solid #ccc;
+    text-align: justify;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

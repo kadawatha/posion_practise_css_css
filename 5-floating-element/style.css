@@ -1,0 +1,70 @@
+
+body{
+
+    background: #bfbfbf;
+
+
+}
+
+.wrapper{
+
+    background: #fff;
+
+    max-width: 968px;
+
+    margin: auto;
+
+    padding: 20px;
+
+
+
+}
+
+
+.wrapper:after{
+
+    content: "";
+    display: block;
+    clear: both;
+
+}
+
+img{
+    float: right;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
