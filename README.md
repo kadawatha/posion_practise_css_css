@@ -29,3 +29,19 @@ ul{
 label{
     margin: 0;
 }
+
+
+img {
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
